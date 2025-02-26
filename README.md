@@ -26,4 +26,4 @@
 
 ## 📚 Mais informações do curso
 
-Este projeto foi desenvolvido por mim, seguindo as orientações da instrutora da Alura []() durante o curso "Pandas I/O: trabalhando com diferentes formatos de arquivos".
+Este projeto foi desenvolvido por mim, seguindo as orientações da instrutora da Alura [Valquíria Alencar](https://github.com/vqrca) durante o curso "Pandas I/O: trabalhando com diferentes formatos de arquivos".
